@@ -12,8 +12,7 @@
 
 ## **Tech Stack:**
 - **Frontend**: React, Vite,Tailwind css
-- **Charting Library**: [Chart.js](https://www.chartjs.org/) or [Recharts](https://recharts.org/), depending on what you used
-- **Environment**: Localhost (for development)
+
 
 ---
 
